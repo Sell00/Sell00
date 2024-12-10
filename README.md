@@ -1,16 +1,16 @@
-## Hi there 👋
+```markdown
+# Olá, eu sou o Sell! 👨‍💻
 
-<!--
-**Sell00/Sell00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou Diretor do **Saturno Lab**, apaixonado por tecnologia e soluções criativas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🌌 Diretor no **Saturno Lab**.
+- 💻 Entusiasta de sistemas e IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 Tecnologias
+- **Linguagens:** JavaScript, Python, C++
+- **Ferramentas:** React, Docker, Git
+
+Obrigado por visitar meu perfil! 🚀
+```
